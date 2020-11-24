@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple ruby on rails program. It simply showcases books ranked, and their reviews. 
+If you wish to get this app running, clone the repository, run bundle install and then run rails s -p 4001 (or whichever port you prefer).
 
-Things you may want to cover:
+Technologies used: 
+1. HTML
+2. CSS
+3. Bootstrap
+4. Ruby on Rails and ERB
+5. SQLite database
 
-* Ruby version
+If you find any bugs or have any questions please email augustshah@02pilot.com 
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
