@@ -1,3 +1,6 @@
+# Below are the colums that the table will contain. This is also the information we render in the HTML file.
+
+
 class CreateBooks < ActiveRecord::Migration[6.0]
   def change
     create_table :books do |t|
